@@ -1,0 +1,13 @@
+{
+    "name": "mxzls/try",
+    "description": "mxzls try",
+    "type": "library",
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "UniqueCode\\": "src/UniqueCode"
+        }
+    }
+}
